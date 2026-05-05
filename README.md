@@ -1,6 +1,6 @@
 This repository contains all the things we've learned in the data-engineering training.
 
-## WEEK 0
+## WEEK 0 Summary
 
 ## PHASE 0
 
@@ -176,3 +176,23 @@ Key areas covered include:
 - Real-world data pipeline implementation in Databricks
 
 This week helped build a strong foundation for data engineering workflows and big data processing.
+
+## Week 2 Summary
+
+In Week 2, I focused on strengthening SQL and Databricks fundamentals.
+
+```Day 1``` 
+
+Learned advanced SQL concepts including Subqueries and Common Table Expressions (CTEs) for writing modular and reusable queries.
+
+```Day 2```
+
+Explored Delta Lake fundamentals, including Delta table creation, update/delete operations, handling null values, and using widgets for parameterized queries.
+
+```Day 3```
+
+Studied Medallion Architecture (Bronze, Silver, Gold layers) and understood how to structure data pipelines in Databricks.
+
+```Day 4 & 5```
+
+Worked on a mini group project – Movie Analytics and User Behavior Analysis, where we implemented data ingestion, transformation, and basic analytics using Databricks.
